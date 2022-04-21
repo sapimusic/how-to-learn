@@ -1,5 +1,7 @@
 .table__cell_theme_dark {
-  max-width: 200px;
+  margin-top: 80px;
+  margin-right: 0;
+  width: 200px;
   color: #fff;
   z-index: 1;
 }
